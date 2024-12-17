@@ -1,4 +1,4 @@
-import { ViewPropTypes } from 'react-native';
+import { ViewPropTypes } from 'deprecated-react-native-prop-types';
 import { number, shape, string, node, bool } from 'prop-types';
 
 export const ShadowARTType = {
