@@ -7,7 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@react-native-community/art": "^1.2.0",
     "prop-types": "^15.7.2"
   },
   "repository": {
